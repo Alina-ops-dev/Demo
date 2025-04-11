@@ -14,5 +14,7 @@ public class HomeWork_1_6_1 {
             a = a ^ b;
             b = b ^ a;
             a = a ^ b;
+            System.out.println(a);
+            System.out.println(b);
         }
 }
